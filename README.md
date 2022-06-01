@@ -16,4 +16,6 @@ tls-verify "/etc/openvpn/verify-cn.sh /etc/openvpn/CN_list.txt"
 server1
 server2
 TMP: 12345678
+client1
+client2
 ```
