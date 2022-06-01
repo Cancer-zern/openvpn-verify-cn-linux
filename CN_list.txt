@@ -1,3 +1,5 @@
-CNNAME1
-TMP: User1
-BlahBlah
+server1
+server2
+TMP: 12345678
+client1
+client2
