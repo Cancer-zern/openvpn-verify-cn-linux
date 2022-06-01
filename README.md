@@ -1,5 +1,7 @@
-# openvpn-verify-cn-linux
-# Compatible with OpenVPN 2.4
+# Functionality
+verify-cn is checking CN into the file CN_list.txt and if the CN is there it will accept to connect, else deny.
+Compatible with OpenVPN 2.4
+
 # OpenVPN server params
 
  ```
