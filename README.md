@@ -1,8 +1,8 @@
 # Functionality
 verify-cn is checking CN into the file CN_list.txt and if the CN is there it will accept to connect, else deny.
-- Compatible with OpenVPN 2.4
+- Compatible with OpenVPN 2.4 and newer
 - Compatible with Ubuntu 18.04 and newer
-- Compatible with OpenWRT 19.07
+- Compatible with OpenWRT 19.07 and newer
 
 # OpenVPN server params
 
